@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Tondeuse Application" );
         
         
     	if(args != null && args.length == 1) {
