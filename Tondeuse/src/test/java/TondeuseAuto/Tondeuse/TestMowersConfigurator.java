@@ -1,8 +1,6 @@
 package TondeuseAuto.Tondeuse;
 
-import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.jupiter.api.Test;
 
 import TondeuseAuto.Tondeuse.exceptions.FileException;
 import TondeuseAuto.Tondeuse.model.Tondeuse;

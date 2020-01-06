@@ -6,7 +6,7 @@ import static org.junit.Assert.fail;
 
 import org.junit.Before;
 import org.junit.Test;
-import static org.junit.jupiter.api.Assertions.*;
+
 
 import TondeuseAuto.Tondeuse.exceptions.FileException;
 import TondeuseAuto.Tondeuse.exceptions.TondeuseException;
